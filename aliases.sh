@@ -1,0 +1,1 @@
+alias prj='cd ~/projects'
